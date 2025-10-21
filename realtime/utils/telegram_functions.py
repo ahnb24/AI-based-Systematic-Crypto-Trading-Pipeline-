@@ -1,7 +1,5 @@
 
-##? https://api.telegram.org/bot1997635645:AAGx_NugrgHZbGaoueLsR0yR3itpFhWznKw/getUpdates  for geting chat_ID
-##? !pip install python-telegram-bot &> /dev/null
-##? https://www.emojiall.com/en/sub-categories/J1  emoji
+
 """
 
 python-telegram-bot==13.15
